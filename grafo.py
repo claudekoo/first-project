@@ -1,5 +1,6 @@
 """
 Grafo no dirigido sin peso, no autoreferenciable
+2nd commit
 """
 class Grafo:
     def __init__(self):
